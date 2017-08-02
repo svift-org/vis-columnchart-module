@@ -1,0 +1,1 @@
+# SVIFT.vis.columnchart
