@@ -1,6 +1,7 @@
 {
     "params":{
-      "dev":true
+      "dev":true,
+      "duration":100
     },
     "vis":{
       "type":"columnchart"
