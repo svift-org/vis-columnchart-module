@@ -4,7 +4,8 @@
       "duration":100
     },
     "vis":{
-      "type":"columnchart"
+      "type":"columnchart",
+      "title":"Columnchart"
     },
     "data":{
       "columns":["Jahr","Wert"],
