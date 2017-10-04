@@ -1,8 +1,12 @@
 {
   "name": "svift-vis-columnchart",
   "version": "1.0.0",
-  "description": "ColumnChart Moule",
-  "title": "Columnchart",
+  "definition": {
+    "name": "columnchart",
+    "description": "ColumnChart Moule",
+    "title": "Columnchart",
+    "input": "table"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
